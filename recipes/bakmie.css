@@ -1,0 +1,13 @@
+.body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.Bigtitle {
+    background: rgba(223, 223, 17, 0.781);
+    margin-bottom: 8px;
+    font-size: 30px;
+    padding: 8px;
+    text-align: center;
+}
+
