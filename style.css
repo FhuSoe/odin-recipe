@@ -38,10 +38,23 @@ img {
 }
 
 ul {
-    list-style: none;
+    list-style: decimal;
+    gap: 8px;
+    color: grey;
 }
 
 a {
     text-decoration: none;
     color: grey;
+}
+
+.cards {
+    border: 1px solid white;
+    box-shadow: 2px 4px 16px black; 
+    border-radius: 4px;
+    padding: 4px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
